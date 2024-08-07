@@ -37,7 +37,7 @@
 
 #### Android
 
-1. 将Gromore SDK【open_ad_sdk_6.0.1.4.arr】拷贝到资源目录(example：android/app/libs)下，添加除穿山甲以外的广告SDK和对应的适配器，下面添加了广点通、百度和快手。
+1. 将Gromore SDK【open_ad_sdk_6.3.1.4.arr】拷贝到资源目录(example：android/app/libs)下，添加除穿山甲以外的广告SDK和对应的适配器，下面添加了广点通、百度和快手。
 
 ```gradle
 dependencies {
