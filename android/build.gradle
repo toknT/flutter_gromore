@@ -74,6 +74,6 @@ dependencies {
 
 
     // 融合SDK
-    implementation(name: 'open_ad_sdk_6.0.1.4', ext: 'aar')
+    implementation(name: 'open_ad_sdk_6.2.1.7', ext: 'aar')
     implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
 }
